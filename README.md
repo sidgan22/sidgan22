@@ -39,5 +39,6 @@ Also interested in:
 - IoT, Distributed Systems, Reinforcement Learning, ML on EDGE devices, networking.
 
 Cheers,  
-Siddarth Ganesh
+  Siddarth Ganesh
+<br />  
 ![Siddarth's github stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=sidgan22&show_icons=true&hide_border=true&hide=["contribs","prs"]))
